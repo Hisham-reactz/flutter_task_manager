@@ -87,7 +87,9 @@ Column headerCalendar(
       lastDay: DateTime.utc(2030, 3, 14),
       currentDay: ref.watch(dateProvider),
       calendarStyle: const CalendarStyle(
-        selectedDecoration: BoxDecoration(color: Colors.red),
+        selectedDecoration: BoxDecoration(
+          color: Colors.red,
+        ),
       ),
       focusedDay: ref.watch(dateProvider),
     ),
