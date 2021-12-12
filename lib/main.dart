@@ -6,7 +6,11 @@ import 'package:flutter_scheduler_example/root/root_view.dart';
 import 'package:flutter_scheduler_example/tasks/tasks_view.dart';
 
 void main() {
-  runApp(const ProviderScope(child: MyApp()));
+  runApp(
+    const ProviderScope(
+      child: MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {

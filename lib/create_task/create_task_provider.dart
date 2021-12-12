@@ -18,7 +18,7 @@ class CreateTaskProvider extends StateNotifier<Task> {
   void setTask(item, value) async {
     switch (item) {
       case 'title':
-        state = state.title = value;
+        state = state..title = value;
         break;
 
       case 'date':
