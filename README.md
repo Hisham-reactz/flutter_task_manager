@@ -47,9 +47,9 @@ Run the app
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/7z5wjSj/Screenshot-2021-12-12-2-53-38-PM.png)
+![App Screenshot](https://i.ibb.co/h7dzdfH/Screenshot-2021-12-12-2-53-17-PM.png)
 ![](https://i.ibb.co/HCjHC4w/Screenshot-2021-12-12-2-53-29-PM.png)
-![](https://i.ibb.co/h7dzdfH/Screenshot-2021-12-12-2-53-17-PM.png)
+![](https://i.ibb.co/7z5wjSj/Screenshot-2021-12-12-2-53-38-PM.png)
 ## Lessons Learned
 
 Riverpod
